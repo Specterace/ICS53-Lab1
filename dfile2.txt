@@ -1,0 +1,7 @@
+1 $This is the outside of the house.$ 2 -1 -1 -1
+2 $This is the front room.$ 4 1 3 5
+3 $This is the living room.$ 6 -1 -1 2
+4 $This is the kitchen.$ -1 2 6 7
+5 $This is the rec room.$ 7 -1 2 -1
+6 $This is the laundry room.$ -1 3 -1 4
+7 $This is the storage toom.$ -1 5 4 -1
